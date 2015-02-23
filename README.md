@@ -1,5 +1,7 @@
 ## What is ClojureScript? ##
 
+[![Join the chat at https://gitter.im/priyatam/clojurescript](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/priyatam/clojurescript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ClojureScript is a new compiler for [Clojure](http://clojure.org) that targets JavaScript. It is designed to emit JavaScript code which is compatible with the advanced compilation mode of the [Google Closure](http://code.google.com/closure/) optimizing compiler.
 
 ## Releases and dependency information ##
